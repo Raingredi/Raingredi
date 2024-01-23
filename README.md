@@ -26,7 +26,7 @@ Sou estudandte de Engenharia Física em transição para computação, grande en
 <div display="inline-block">
  <p align="left">📚 Tenho estudado JavaScript, HTML5 e CSS3, além dos estudos paralelos de UX design,</p>
  <p align="left">🐱 Sou apaixonada pelos meus três gatos,</p>
- <p align="left">☕♟️ Não vivo sem o meu café diário e uma boa partidad de xadrez (Não sou boa, mas arrisco me aventurar kkkk)</p>
+ <p align="left">☕♟️ Não vivo sem o meu café diário e uma boa partida de xadrez (Não sou boa, mas arrisco me aventurar kkkk)</p>
 </div>
 
 <p align="center">
