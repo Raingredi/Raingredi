@@ -14,8 +14,6 @@
 
 ## Olá👋
 
-Sou estudandte de Engenharia Física em transição para Engenharia de computação, grande entusiasta do desenvolvimento front-end, QA, web desing e eletrônica. Explorando o mundo da programação estou cada dia evoluindo um pouco mais para me tornar uma Dev!
-
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
