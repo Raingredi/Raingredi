@@ -14,21 +14,4 @@
 
 ## Olá👋
 
-### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
-<div display="inline-block">
- <p align="left">📚 Tenho estudado JavaScript, HTML5 e CSS3, além dos estudos paralelos de UX design,</p>
- <p align="left">🐱 Sou apaixonada pelos meus três gatos,</p>
- <p align="left">☕♟️ Não vivo sem o meu café diário e uma boa partida de xadrez (Não sou boa, mas arrisco me aventurar kkkk)</p>
-</div>
-
-<p align="center">
-<a href="https://github.com/raingredi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raingredi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
